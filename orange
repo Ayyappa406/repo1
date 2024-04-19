@@ -14,3 +14,6 @@ To fetch the changes from github :
 git fetch origin branch_name
 To merge the commits from github :
 git merge origin/branch_name
+
+
+hi how are i am fine is it ok with that or you need cahnge it
