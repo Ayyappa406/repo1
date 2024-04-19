@@ -5,10 +5,9 @@ To push all branches at a time :
 git push -u origin --all
 To know what are the repo that we connected to github :
 git remote -v
+1235885885484868
 To pull the commits from github :
 git pull origin branch_name
-GIT PULL = GIT FETCH + GIT MERGE
-fetch : check the changes from central
 if changes are present then we will merge to local
 merge : getting the chages from github
 To fetch the changes from github :
